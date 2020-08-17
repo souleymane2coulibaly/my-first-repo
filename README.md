@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-!(https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![Arsenal logo](https://cdn.freelogovectors.net/wp-content/uploads/2018/07/arsenal-logo.png)
