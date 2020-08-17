@@ -1,28 +1,34 @@
-# This is a large heading
+# Souleymane Coulibaly
 
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
 
-- This is
-- an unordered
-- list
+### Geography
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
+I live in the city of Champaign, in the state of Illinois, in the United States 
+of America.
 
-```
-This is
-a block
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![Arsenal logo](https://cdn.freelogovectors.net/wp-content/uploads/2018/07/arsenal-logo.png)
+### Reading
+
+
+Three of my favorite books are:
+
+- *Statistical Models: Theory and Practice* by David A. Freedman
+- *Mathematical Analysis* by Binmore
+- *A Time to Kill* by John Grisham
+
+
+### Food
+
+I like going to these two restaurants:
+
+1. Blag Dog in Champaign.
+2. Farren's in Champaign.
+3. Kohinoor in Champaign.
+
+
+### Contact
+
+
